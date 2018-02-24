@@ -22,3 +22,14 @@ Create a new product: Product()
 Create a new Snack: Product potatoChips = new Snack()
 Create a new Drink: Product powerade = new Drink()
 Display product info: displayProductInfo()
+
+Approach
+This program will have two main working priorities. 
+1. user
+2. Admin
+The user will be able to select products to purchase 
+The admin will have the ability to perform the following:
+1. Edit product price
+2. Remove product inventory
+3. Add product inventory
+4. View current inventory
